@@ -1,5 +1,5 @@
 ##### WORKFLOW DEFINITION #####
-import "https://github.com/jwitch/hBOTA/blob/main/NETMHC2_allele.wdl" as sub
+import "https://gitlab.com/xavier-lab-computation/public/hbota/-/raw/main/NETMHC2_allele.wdl" as sub
 workflow hBOTA{
 ###changed name of workflow####
 	File Sample_Path_List
