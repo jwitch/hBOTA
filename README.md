@@ -11,3 +11,5 @@ The main hBOTA.wdl requires as input:
 3) Fastq_Extension - file extension for the files in Sample_Path_List (e.g. ".faa")
 
 The output of hBOTA is a list of NetMHCIIpan 3.2 predictions of binding to MHC class II alleles for protein regions prioritized by hBOTA.
+
+Note: this is a copy from https://gitlab.com/xavier-lab-computation/public/hbota
